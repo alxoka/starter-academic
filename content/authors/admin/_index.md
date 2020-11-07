@@ -5,8 +5,8 @@ avatar_filename: 306ee04.jpg
 bio: My research interests include smart cities, suburban sustainability, and
   transportation innovation.
 interests:
-  - SmartCities
-  - TransportationInnovation
+  - Smart Cities
+  - Transportation Innovation
 social:
   - icon: envelope
     icon_pack: fas
