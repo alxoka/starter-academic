@@ -1,74 +1,60 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Alex Okashita / Alex Oka
+role: Ph.D. Student
+avatar_filename: 306ee04.jpg
+bio: My research interests include smart cities, suburban sustainability, and
+  transportation innovation.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - SmartCities
+  - TransportationInnovation
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/AlexOka_
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=zwGhmfkAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/alxoka
+  - icon_pack: fab
+    link: https://orcid.org/0000-0001-7810-5804
+    icon: orcid
+  - icon_pack: fab
+    icon: researchgate
+    link: https://www.researchgate.net/profile/Alex_Okashita
+  - icon_pack: fab
+    icon: linkedin
+    link: https://www.linkedin.com/in/aaoka/
+organizations:
+  - name: University of California, Irvine (UC Irvine)
+    url: ""
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD Student in Urban and Environmental Planning and Policy
+      institution: University of California, Irvine (UC Irvine)
+      year: ""
+    - course: Master of Urban and Regional Planning (GIS and Transportation Planning
+        and Policy Focus)
+      institution: California State Polytechnic University, Pomona (Cal Poly Pomona)
+      year: 2018
+    - course: BA in Geography, Minor in Urban and Regional Studies
+      institution: University of California, Los Angeles (UCLA)
+      year: 2015
 email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: true
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
+highlight_name: false
 ---
+Hi, I'm a first year Ph.D. student in the Urban and Environmental Planning and Policy program at the Department of Urban Planning and Public Policy in the School of Social Ecology at UC Irvine.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interests include examining transportation innovation impacts on suburban sustainability. Additionally, I am interested in artificial intelligence and synthetic data implications in planning. I am also interested in leveraging ML and data science methodologies to explore urban planning issues. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My most recent publication assesses the equity impacts of market-rate residential parking permits. Before returning to academia, I held public and private sector positions working in rail planning, transit bus operations, train station management, and active transportation planning. 
+
+I hold a Master of Urban and Regional Planning (Transportation and GIS focus) from Cal Poly Pomona and a BA in Geography with an Urban and Regional Studies minor from UCLA.
