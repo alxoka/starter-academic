@@ -35,14 +35,13 @@ organizations:
 education:
   courses:
     - course: PhD Student in Urban and Environmental Planning and Policy
-      institution: University of California, Irvine (UC Irvine)
+      institution: UC Irvine
       year: ""
-    - course: Master of Urban and Regional Planning (GIS and Transportation Planning
-        and Policy Focus)
-      institution: California State Polytechnic University, Pomona (Cal Poly Pomona)
+    - course: Master of Urban and Regional Planning (GIS and Transportation Focus)
+      institution: Cal Poly Pomona
       year: 2018
     - course: BA in Geography, Minor in Urban and Regional Studies
-      institution: University of California, Los Angeles (UCLA)
+      institution: UCLA
       year: 2015
 email: ""
 superuser: true
@@ -55,6 +54,4 @@ Hi, I'm a first year Ph.D. student in the Urban and Environmental Planning and P
 
 My research interests include examining transportation innovation impacts on suburban sustainability. Additionally, I am interested in artificial intelligence and synthetic data implications in planning. I am also interested in leveraging ML and data science methodologies to explore urban planning issues. 
 
-My most recent publication assesses the equity impacts of market-rate residential parking permits. Before returning to academia, I held public and private sector positions working in rail planning, transit bus operations, train station management, and active transportation planning. 
-
-I hold a Master of Urban and Regional Planning (Transportation and GIS focus) from Cal Poly Pomona and a BA in Geography with an Urban and Regional Studies minor from UCLA.
+My most recent publication assesses the equity impacts of market-rate residential parking permits. Before returning to academia, I held public and private sector positions working in rail planning, transit bus operations, train station management, and active transportation planning.
