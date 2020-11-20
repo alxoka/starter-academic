@@ -41,10 +41,10 @@ education:
       year: ""
     - course: Master of Urban and Regional Planning (GIS and Transportation Focus)
       institution: Cal Poly Pomona
-      year: 2018
+      year: ""
     - course: BA in Geography, Minor in Urban and Regional Studies
       institution: UCLA
-      year: 2015
+      year: ""
 email: ""
 superuser: true
 user_groups:
