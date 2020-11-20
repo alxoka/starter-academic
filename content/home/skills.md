@@ -13,42 +13,44 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
+#fab for business logos, fas for general purpose, ai for academic.
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "[b]R[/b]"
-  description = "35%"
+  icon = "code"
+  icon_pack = "fas"
+  name = "R"
+  description = "Python, Javascript, LaTeX, Markdown"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "30%"  
-  
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "10%"
-  
-  [[feature]]
-  icon = "js-square"
-  icon_pack = "fab"
-  name = "Javascript"
-  description = "10%"
-  
-  [[feature]]
-  icon = "node"
-  icon_pack = "fab"
-  name = "Node.js"
-  description = "10%"
+  description = ""  
+
   
     [[feature]]
   icon = "globe-americas"
   icon_pack = "fas"
   name = "ArcGIS"
-  description = "90%"
+  description = "QGIS, Mapbox"
+  
+  [[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Access, Excel"
+  description = "SQL, Github"  
+  
+   [[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = ""
+  description = "ML, CV"  
+  
+  
+  [[feature]]
+  icon = "palette"
+  icon_pack = "fas"
+  name = "Illustrator, InDesign "
+  description = "Photoshop"  
 
 # Uncomment to use emoji icons.
 # [[feature]]
