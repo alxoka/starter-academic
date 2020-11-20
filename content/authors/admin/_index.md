@@ -2,8 +2,7 @@
 title: Alex Okashita / Alex Oka
 role: Ph.D. Student
 avatar_filename: 306ee04.jpg
-bio: My research interests include smart cities, suburban sustainability, and
-  transportation innovation.
+bio: ""
 interests:
   - Smart Cities
   - Transportation Innovation
@@ -29,6 +28,9 @@ social:
   - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/aaoka/
+  - link: https://www.alexoka.dev/media/cv.pdf
+    icon_pack: ai
+    icon: cv
 organizations:
   - name: University of California, Irvine (UC Irvine)
     url: ""
@@ -52,6 +54,6 @@ highlight_name: false
 ---
 Hi, I'm a first year Ph.D. student in the Urban and Environmental Planning and Policy program at the Department of Urban Planning and Public Policy in the School of Social Ecology at UC Irvine.
 
-My research interests include examining transportation innovation impacts on suburban sustainability. Additionally, I am interested in artificial intelligence and synthetic data implications in planning. I am also interested in leveraging ML and data science methodologies to explore urban planning issues. 
+My research interests include smart city and transportation innovation, suburban sustainability, and economic development.  Additionally, I am interested in artificial intelligence, synthetic data, and urban data science implications in planning.
 
 My most recent publication assesses the equity impacts of market-rate residential parking permits. Before returning to academia, I held public and private sector positions working in rail planning, transit bus operations, train station management, and active transportation planning.
