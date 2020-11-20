@@ -14,11 +14,11 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #fab for business logos, fas for general purpose, ai for academic.
-[[feature]]
+[[feature]] 
   icon = "code"
   icon_pack = "fas"
-  name = "R"
-  description = "Python, Javascript, LaTeX, Markdown"
+  name = "Programming"
+  description = "R, Python, Javascript, LaTeX, Markdown"
   
 [[feature]]
   icon = "chart-line"
@@ -30,27 +30,27 @@ subtitle = ""
     [[feature]]
   icon = "globe-americas"
   icon_pack = "fas"
-  name = "ArcGIS"
-  description = "QGIS, Mapbox"
+  name = "Mapping"
+  description = "ArcGIS, QGIS, Mapbox"
   
   [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "Access, Excel"
-  description = "SQL, Github"  
+  name = "Database"
+  description = "Access, Excel, SQL, Github"  
   
    [[feature]]
   icon = "robot"
   icon_pack = "fas"
-  name = ""
-  description = "ML, CV"  
+  name = "Artificial Intelligence"
+  description = "ML, CV in-progress"  
   
   
   [[feature]]
   icon = "palette"
   icon_pack = "fas"
-  name = "Illustrator, InDesign "
-  description = "Photoshop"  
+  name = "Graphics"
+  description = "Illustrator, InDesign, Photoshop"  
 
 # Uncomment to use emoji icons.
 # [[feature]]
