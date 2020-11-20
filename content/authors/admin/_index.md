@@ -56,4 +56,4 @@ Hi, I'm a first year Ph.D. student in the Urban and Environmental Planning and P
 
 My research interests include smart city and transportation innovation, suburban sustainability, and economic development.  Additionally, I am interested in artificial intelligence, synthetic data, and urban data science implications in planning.
 
-My most recent publication assesses the equity impacts of market-rate residential parking permits. Before returning to academia, I held public and private sector positions working in rail planning, transit bus operations, train station management, and active transportation planning.
+Before returning to academia, I held public and private sector positions working in rail planning, transit bus operations, train station management, and active transportation planning.
