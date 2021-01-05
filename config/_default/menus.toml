@@ -34,3 +34,9 @@ name = "Projects"
     name = "CV"
     url = "media/cv.pdf"
     weight = 70
+
+
+ [[main]]
+    name = "日本語"
+    url = "jp/index.md"
+    weight = 70
