@@ -8,10 +8,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-# Optional header image (relative to `static/media/` folder).
-header: "大学院生紹介"
-  caption: ""
-  image: ""
+
 ---
 # 大学院生紹介
 
