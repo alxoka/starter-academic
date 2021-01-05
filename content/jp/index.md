@@ -9,10 +9,13 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
-header:
+header: 大学院生紹介
   caption: ""
   image: ""
 ---
+
+
+|   |  |  
 | ------------------| ------------------------------ |
 | 氏名：   | 岡下アレックス　（オカシタ　アレックス）     |
 | 職位：   | 大学院生|
