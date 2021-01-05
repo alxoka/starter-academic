@@ -1,5 +1,5 @@
 ---
-title: 日本語
+title: 大学院生紹介
 #summary: Here we describe how to add a page to your site.
 #　date: "2018-06-28T00:00:00Z"
 
@@ -10,7 +10,7 @@ comments: false  # Show comments?
 
 
 ---
-# 大学院生紹介
+
 
 |   |  |  
 | ------------------| ------------------------------ |
