@@ -38,5 +38,5 @@ name = "Projects"
 
  [[main]]
     name = "日本語"
-    url = "jp/index.md"
+    url = "https://www.alexoka.dev/jp/"
     weight = 70
