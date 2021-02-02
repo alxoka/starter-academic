@@ -18,32 +18,32 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "R, Python, Javascript, LaTeX, Markdown"
+  description = "R in-progress, Python in-progress, Javascript in-progress, LaTeX in-progress, Markdown in-progress"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = ""  
+  description = "Stata in-progress, R Studio in-progress, SPSS, Excel"  
 
   
     [[feature]]
   icon = "globe-americas"
   icon_pack = "fas"
   name = "Mapping"
-  description = "ArcGIS, QGIS, Mapbox"
+  description = "ArcGIS, QGIS in-progress, Mapbox in-progress"
   
   [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Database"
-  description = "Access, Excel, SQL, Github"  
+  description = "Access, Excel, SQL in-progress, Github"  
   
    [[feature]]
   icon = "robot"
   icon_pack = "fas"
   name = "Artificial Intelligence"
-  description = "ML, CV in-progress"  
+  description = "ML in-progress, CV in-progress"  
   
   
   [[feature]]
