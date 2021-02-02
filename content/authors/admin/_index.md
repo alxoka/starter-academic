@@ -52,8 +52,3 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-Hi, I'm a first year Ph.D. student in the Urban and Environmental Planning and Policy program at the Department of Urban Planning and Public Policy in the School of Social Ecology at UC Irvine.
-
-My research interests include smart city and transportation innovation, suburban sustainability, and economic development.  Additionally, I am interested in artificial intelligence, synthetic data, and urban data science implications in planning.
-
-Before returning to academia, I held public and private sector positions working in rail planning, transit bus operations, train station management, and active transportation planning.
