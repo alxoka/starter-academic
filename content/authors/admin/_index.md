@@ -6,6 +6,8 @@ bio: ""
 interests:
   - Smart Cities
   - Transportation Innovation
+  - Future Studies
+  - Emerging Technology Policy
 social:
   - icon: envelope
     icon_pack: fas
